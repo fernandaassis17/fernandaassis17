@@ -26,6 +26,6 @@
 
 ----
 
-#### <img src="https://giphy.com/stickers/carosellorecords-whoa-birth-birthh-WTdn59Eg9YO0JaoW3o" width="50"> View my stats on Github 
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> View my stats on Github 
    
 ![Fernanda GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandaassis17&show_icons=true)
