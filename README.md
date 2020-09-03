@@ -27,6 +27,6 @@
 
 ----
 
-#### <img src="https://media.giphy.com/media/sg32LhHk9RVLi/giphy.gif" width="50"> View my stats on Github 
+#### <img src="https://media.giphy.com/media/sg32LhHk9RVLi/giphy.gif" width="50"> View my stats
    
 ![Fernanda GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandaassis17&show_icons=true)
