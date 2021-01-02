@@ -2,7 +2,7 @@
 
 
 <a target="_blank" href="https://www.linkedin.com/in/fernanda-assis-a70621195/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img src="https://img.icons8.com/material-sharp/24/000000/linkedin--v2.png"/>
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5531999587394">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
@@ -28,3 +28,4 @@
 ----
 
 #### <img src="https://media.giphy.com/media/sg32LhHk9RVLi/giphy.gif" width="50">
+
